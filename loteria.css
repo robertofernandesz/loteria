@@ -41,11 +41,14 @@ button
   font-size: 3em;
   padding: 0px;
   margin: 0px;
+  display: flex;
+  flex-direction: row;
 }
 
-#numSort
+.result
 {
-  display: inline;
+  margin-top: 20px;
+  margin-right: 20px;
 }
 
 p
