@@ -78,10 +78,10 @@ function addToList(num, pos)
 
 ## Imagens da Tela  
 Tela 1:
-![](/imagens/Capturar.jpg)
+![](/imagem/Capturar.jpg)
 
 Tela 2:
-![](/imagens/Capturar2.jpg)
+![](/imagem/Capturar2.jpg)
 
 
 #### Referências:
